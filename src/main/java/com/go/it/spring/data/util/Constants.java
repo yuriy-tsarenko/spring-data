@@ -26,6 +26,7 @@ public final class Constants {
     public static final String FLYWAY_USER = "org.flywaydb.user";
     public static final String FLYWAY_PASSWORD = "org.flywaydb.password";
     public static final String FLYWAY_REPAIR = "org.flywaydb.repair";
+    public static final String FLYWAY_ENABLED = "org.flywaydb.enabled";
 
     public static final String TOKEN = "servlet.auth.token";
     public static final String USERNAME = "app.username";
